@@ -55,6 +55,8 @@
   <img src="https://i.imgur.com/s4cSL6l.png" width="200"/>
 </p>
 
+[Открыть YoungConPresentation.pdf](./YoungConPresentation.pdf)
+
 ---
 
 ## 🧱 Технологический стек
