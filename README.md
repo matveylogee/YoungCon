@@ -55,8 +55,6 @@
   <img src="https://i.imgur.com/s4cSL6l.png" width="200"/>
 </p>
 
-[Uploading YY Template YSG (1).pdf…]()
-
 ---
 
 ## 🧱 Технологический стек
